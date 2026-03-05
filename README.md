@@ -82,5 +82,9 @@ Beyond football analysis, the project highlights the importance of data storytel
 
 6.Screenshots/Demos:
 Page1:https://github.com/a-di-tya/FIFAWC_ANALYSIS/blob/main/PAGE%201.png
+
+
 Page2:https://github.com/a-di-tya/FIFAWC_ANALYSIS/blob/main/PAGE%202.png
+
+
 Page3:https://github.com/a-di-tya/FIFAWC_ANALYSIS/blob/main/PAGE%203.png
