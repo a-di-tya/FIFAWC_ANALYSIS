@@ -81,3 +81,6 @@ Data-driven comparisons reveal surprising tournament outcomes such as unexpected
 Beyond football analysis, the project highlights the importance of data storytelling, interactive dashboards, and analytical thinking, which are essential skills in modern data analytics roles.
 
 6.Screenshots/Demos:
+Page1:https://github.com/a-di-tya/FIFAWC_ANALYSIS/blob/main/PAGE%201.png
+Page2:
+Page3:
